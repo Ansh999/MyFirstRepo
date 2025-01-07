@@ -12,3 +12,7 @@ arr = [3, 6, 8, 10, 1, 2, 1]
 print("Original array:", arr)
 sorted_arr = quicksort(arr)
 print("Sorted array:", sorted_arr)
+
+
+# New Feature
+print("New Feature")
